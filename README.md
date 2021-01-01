@@ -13,3 +13,7 @@ Observação: Só funciona no Linux, por enquanto.
 - [x] Mostra informações do processador
 - [x] monitora a temperatura
 - [x] Notifica quando atinge uma temperatura alta
+
+
+![Kazam_screencast_00000](https://user-images.githubusercontent.com/34611785/103446602-7e4c7780-4c4f-11eb-958a-bcb981d8cb83.gif)
+
