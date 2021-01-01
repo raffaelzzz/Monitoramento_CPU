@@ -1,3 +1,15 @@
 # Monitorcao_CPU
-Software que monitora a temperatura do processador e alerta quando atinge um determinado valor.
-![Kazam_screencast_00000](https://user-images.githubusercontent.com/34611785/103445993-8f45ba80-4c48-11eb-8057-6752a72d5022.gif)
+Software que monitora a temperatura do processador o mesmo alerta quando a temperatura sobe, por segurança a notificação é repetida fazendo com que o usuário suspenda o computador.
+
+
+Se o usuário clicar no botão "seguinte" o programa vai continuar monitorando, mas, quando chegar aos 70º graus vai aparecer novamente o alerta.
+Se o usário apertar o "x" ou "cancel" o mesmo vai suspender o computador.
+
+Observação: Só funciona no Linux, por enquanto.
+
+
+### Software Monitoração_CPU :computer:
+
+- [x] Mostra informações do processador
+- [x] monitora a temperatura
+- [x] Notifica quando atinge uma temperatura alta
