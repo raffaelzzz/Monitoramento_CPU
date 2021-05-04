@@ -3,7 +3,7 @@ Software que monitora a temperatura do processador, o mesmo alerta quando a temp
 
 
 Se o usuário clicar no botão "seguinte" o programa vai continuar monitorando, mas, quando chegar aos 70º graus vai aparecer novamente o alerta.
-Se o usário apertar o "x" ou "cancel" o mesmo vai suspender o computador.
+Se o usário apertar o "x" ou "cancel", o mesmo irá desligar.
 
 Observação: Só funciona no Linux, por enquanto.
 
