@@ -1,5 +1,5 @@
 # Monitoramento_CPU
-Software que monitora a temperatura do processador, o mesmo alerta quando a temperatura sobe, por segurança, a notificação é repetida fazendo com que o usuário suspenda o computador.
+Software que monitora a temperatura do processador, o mesmo alerta quando a temperatura sobe, por segurança, a notificação é repetida fazendo com que o usuário desligue o computador.
 
 
 Se o usuário clicar no botão "seguinte" o programa vai continuar monitorando, mas, quando chegar aos 70º graus vai aparecer novamente o alerta.
